@@ -1,6 +1,6 @@
 # ZombiesII
  Zombies II
 
-(Never completed, sixth)
+(Never completed, 6th game)
 
 Created By: @AtlasDisease
